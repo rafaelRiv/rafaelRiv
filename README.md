@@ -1,6 +1,6 @@
 ## Hi 👋, I am Rafael Prévost, a Software Developer at [Evernow](https://www.evernow.com) 
 
-- Passionate about backend programming and os dev !
+- Passionate about backend programming 
 - A functionnal programmer enthousiaste 
 
 ### Knowledge
