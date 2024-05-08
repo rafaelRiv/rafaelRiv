@@ -2,6 +2,7 @@
 
 - Passionate about backend programming 
 - A functionnal programmer enthousiaste 
+- Starting to explore depending types and OS dev. [See the progress](https://rafaelriv.github.io/piblog/). Be patient, it is the beginning of the journey.
 
 ### Knowledge
 
