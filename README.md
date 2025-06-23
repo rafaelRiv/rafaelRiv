@@ -14,12 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-##### Languages in learning phase
-
-![ATS](https://img.shields.io/badge/ats-%23239120.svg?style=for-the-badge&logo=ats&logoColor=white)
-![Agda](https://img.shields.io/badge/agda-%23239120.svg?style=for-the-badge&logo=agda&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23239120.svg?style=for-the-badge&logo=rust&logoColor=white)
-
 ##### DevOps/Infra (Not a specialist)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
