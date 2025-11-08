@@ -1,7 +1,7 @@
 ## Hi 👋, I am Rafael Prévost, a Software Developer at [Evernow](https://www.evernow.com) 
 
 - Passionate about backend programming 
-- A functionnal programmer enthousiaste 
+- A functionnal programmer enthousiaste but not neglecting OOP
 - Starting to explore depending types and OS dev. [See the progress](https://rafaelriv.github.io/piblog/). Be patient, it is the beginning of the journey.
 
 ### Knowledge
